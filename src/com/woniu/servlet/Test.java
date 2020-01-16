@@ -37,6 +37,8 @@ public class Test extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 		System.out.println(112);
+		System.out.println(4560);
+		
 	}
 
 }
