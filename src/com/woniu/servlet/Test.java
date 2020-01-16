@@ -38,6 +38,7 @@ public class Test extends HttpServlet {
 		doGet(request, response);
 		System.out.println(112000);
 		System.out.println(4560);
+		System.out.println(888);
 		
 	}
 
